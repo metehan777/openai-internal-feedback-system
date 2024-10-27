@@ -1,4 +1,4 @@
-# OpenAI, Claude, Llama Internal Feedback System
+# OpenAI Internal Feedback System
 
 A sophisticated feedback management system focused on AI safety and alignment discussions for OpenAI's leadership team.
 
